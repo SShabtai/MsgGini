@@ -1,0 +1,2 @@
+# MsgGini
+Message Generator
